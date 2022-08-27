@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="bar_icons_restrict.svg"
+   inkscape:export-filename="D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\addons\reality_newrestrict\materials\rl_rest_mats\add_icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="12.96762"
+     inkscape:cy="2.6056315"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showborder="true"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1919"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-657.5333)">
+    <g
+       id="g4532"
+       transform="translate(0,-2.5195312e-5)">
+      <circle
+         r="8"
+         cy="665.53333"
+         cx="8"
+         id="path4517"
+         style="opacity:1;fill:#4cce52;fill-opacity:0.95744683;fill-rule:evenodd;stroke:none;stroke-width:0.44137931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;paint-order:normal" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4519"
+         d="m 8,662.56064 v 5.94533"
+         style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 10.972666,665.5333 H 5.0273337"
+         id="path4521"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4547"
+       transform="translate(42.875)">
+      <circle
+         style="opacity:1;fill:#de413c;fill-opacity:0.95744683;fill-rule:evenodd;stroke:none;stroke-width:0.44137931;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;paint-order:normal"
+         id="circle4534"
+         cx="8"
+         cy="665.53333"
+         r="8" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4538"
+         d="M 10.972666,665.5333 H 5.0273337"
+         style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

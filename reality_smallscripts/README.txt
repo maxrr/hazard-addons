@@ -1,0 +1,1 @@
+Hi! Each file in this addon is independent of one another. Feel free to separate them and use them as you see fit!

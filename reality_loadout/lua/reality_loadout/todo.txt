@@ -1,0 +1,18 @@
+concept removed, may revisit later -- loadout title validity is not refreshed when no weapons are in the loadout
+
+need to only show weapons that are equippable by the player
+
+fixed -- the same weapon can be put into a loadout multiple times via command line
+
+
+patch notes:
+
+patch note details to include:
+rhud_drawself
+rhud_drawelf_title
+rlld_display
+rlld_modify
+rlld_openmenu
+rlld_refresh
+rlld_select
+rafk_cl_ding
