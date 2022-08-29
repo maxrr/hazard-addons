@@ -1,6 +1,8 @@
 # Hazard Addons
 These are addons that were designed for use on the Hazard Gaming Garry's Mod server.
 
+See here for KAC: [https://github.com/KyleNaCl/KAC](https://github.com/KyleNaCl/KAC)
+
 ## Addons contained
 - **reality_boards** ➜ information boards that were used in the spawn area
 - **reality_build** ➜ our buildmode system, with ties to the buttonbar and hud
