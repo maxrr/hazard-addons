@@ -1,5 +1,5 @@
 # Hazard Addons
-These are addons that were designed for use on the Hazard Gaming Garry's Mod server.
+These are addons that were designed for use on the Hazard Gaming Garry's Mod server (https://hgaming.net).
 
 See here for KAC: [https://github.com/KyleNaCl/KAC](https://github.com/KyleNaCl/KAC)
 
